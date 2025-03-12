@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392020519234",
+    "project_id": "roolbaseauth",
+    "storage_bucket": "roolbaseauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392020519234:android:6506dc7bc59952cb9a80db",
+        "android_client_info": {
+          "package_name": "rollbaseauths.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAORluGiiRzjPuswhZJG71xUtv1mUf3XQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
